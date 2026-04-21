@@ -3,8 +3,8 @@
 ## Описание проекта
 Проект представляет собой BI-дашборд для анализа данных авиаперевозок на основе демонстрационной базы данных Postgres Pro. Дашборд позволяет отслеживать ключевые показатели бизнеса: общую выручку, загруженность рейсов, статусы рейсов и поведение пассажиров.
 
-![Dashboard Screenshot]<img width="1905" height="877" alt="image" src="https://github.com/user-attachments/assets/c2a9db4c-4160-4700-b001-76666cc49d31"/>
-)
+<img width="1905" height="877" alt="image" src="https://github.com/user-attachments/assets/727c789c-becf-494c-9bd7-b70c7bb1e4c6" />
+
 
 ## Структура репозитория
 - `charts/` — YAML-файлы с конфигурациями визуализаций
